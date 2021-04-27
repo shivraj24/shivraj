@@ -1,3 +1,3 @@
-# Hii there
+# Hey there
 
-#. I am Shivraj Sayagaon and I am Computer Science student at Zeal College of Engineerinng and Research,Pune.
+I am Shivraj Sayagaon and I am a Computer Science student at Zeal College of Engineering and Research, Pune.
